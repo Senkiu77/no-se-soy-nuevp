@@ -1191,7 +1191,7 @@ int main(){
     do{
         TITULO();
         gotoxy(30,9); cout << "=== MENU PRINCIPAL ===";
-        gotoxy(23,10); cout << "1. Grupos";
+        gotoxy(23,10); cout << "1. Gruposs";
         gotoxy(23,11); cout << "2. Investigadores";
         gotoxy(23,12); cout << "3. Productos";
         gotoxy(23,13); cout << "4. Guardar";
