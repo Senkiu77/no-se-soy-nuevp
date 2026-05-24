@@ -1,9 +1,0 @@
-EDIFICIO A
-SALON 203 30
-FACULTAD Ingenieria
-PROGRAMA Sistemas
-MATERIA Calculo 3
-ESTUDIANTE Jose 123
-MATERIA_CURSADA Calculo 4.5
-PROFESOR Adith 234 Titular Planta Doctorado 20 1 220
-HORARIO A 203 Calculo 234 Martes 2:00 
