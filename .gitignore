@@ -1,0 +1,11 @@
+# 1. Ignorar absolutamente todo por defecto
+*
+
+# 2. Agregar excepciones para que NO ignore tus carpetas
+!*/
+
+# 3. Agregar excepciones para tus archivos de código real
+!.gitignore
+!*.cpp
+!*.h
+!*.hpp
